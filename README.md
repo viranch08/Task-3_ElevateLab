@@ -50,9 +50,15 @@ Most Sales from: Sean Miller (~₹ 25K)
 Power BI 
 
 📎 Files Included
+https://github.com/viranch08/Task-3_ElevateLab/blob/main/Superstore.pbix
 
+https://github.com/viranch08/Task-3_ElevateLab/blob/main/Superstore.png
 
-Superstore_Dashboard_Presentation.pptx – Final PPT presentation
+https://github.com/viranch08/Task-3_ElevateLab/blob/main/Superstore%20detailed.png
+
+https://github.com/viranch08/Task-3_ElevateLab/blob/main/Superstore_Dashboard_Presentation.pptx
 
 📬 Contact
 For questions or suggestions, feel free to reach out.
+https://www.linkedin.com/in/viranch-dadheech08
+viranchdadheech9@gmail.com
